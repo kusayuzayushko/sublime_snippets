@@ -1,0 +1,9 @@
+<!-- See http://www.sublimetext.com/docs/snippets for more information -->
+<snippet>
+	<content><![CDATA[\$(function() {
+    $0
+});]]></content>
+    <tabTrigger>ready</tabTrigger>
+    <scope>source.js</scope>
+    <description>jquery ready</description>
+</snippet>
